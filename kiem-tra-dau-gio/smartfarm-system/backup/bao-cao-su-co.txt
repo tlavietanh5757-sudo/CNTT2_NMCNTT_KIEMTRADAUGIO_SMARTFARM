@@ -1,0 +1,13 @@
+ BAO CAO SU CO ngay 13/10 7:15 
+2026-10-12 08:15:01 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 08:40:09 [ERROR] api 404 Not Found /api/sensor/12
+2026-10-12 09:03:17 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 10:02:48 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 11:01:23 [ERROR] api 404 Not Found /api/sensor/27
+2026-10-12 12:20:46 [ERROR] sensor-05 Connection TIMEOUT after 30s
+2026-10-12 08:15:01 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 08:40:09 [ERROR] api 404 Not Found /api/sensor/12
+2026-10-12 09:03:17 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 10:02:48 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 11:01:23 [ERROR] api 404 Not Found /api/sensor/27
+2026-10-12 12:20:46 [ERROR] sensor-05 Connection TIMEOUT after 30s
